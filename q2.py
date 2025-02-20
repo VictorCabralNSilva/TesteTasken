@@ -1,3 +1,5 @@
+#PY
+
 def string(s):
     if not s:
         return ""  # Retorna vazio se a string estiver vazia

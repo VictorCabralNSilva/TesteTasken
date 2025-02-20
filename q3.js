@@ -1,3 +1,5 @@
+//JS
+
 function analisarNumeros() {
   let numeros = [];
   let numero;

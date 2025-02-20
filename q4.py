@@ -1,3 +1,5 @@
+#PY
+
 def contar_vogais_consoantes(linha):
     vogais = "aeiouAEIOU"
     consoantes = "bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ"

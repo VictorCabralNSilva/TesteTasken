@@ -1,3 +1,5 @@
+//JS
+
 function numero(n) {
   if (n <= 0) {
     console.log("Erro: O valor de entrada deve ser maior que 0");
